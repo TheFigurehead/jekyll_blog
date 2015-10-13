@@ -4,10 +4,10 @@
     <title>Alex&#39;s blog</title>
     <description>Hey hey my my rock-n-roll can&#39;t never die.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Oct 2015 22:46:28 +0400</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2015 22:46:28 +0400</lastBuildDate>
+    <link>http://yourdomain.comjekyll_blog/</link>
+    <atom:link href="http://yourdomain.comjekyll_blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Oct 2015 02:17:25 +0400</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2015 02:17:25 +0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 12 Oct 2015 22:42:49 +0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/12/welcome-to-jekyll1.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/12/welcome-to-jekyll1.html</guid>
+        <link>http://yourdomain.comjekyll_blog/jekyll/update/2015/10/12/welcome-to-jekyll1.html</link>
+        <guid isPermaLink="true">http://yourdomain.comjekyll_blog/jekyll/update/2015/10/12/welcome-to-jekyll1.html</guid>
         
         
         <category>jekyll</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Mon, 12 Oct 2015 22:42:49 +0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/12/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.comjekyll_blog/jekyll/update/2015/10/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.comjekyll_blog/jekyll/update/2015/10/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -84,8 +84,8 @@
 
 </description>
         <pubDate>Mon, 12 Oct 2015 22:42:49 +0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/12/first-post2.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/12/first-post2.html</guid>
+        <link>http://yourdomain.comjekyll_blog/jekyll/update/2015/10/12/first-post2.html</link>
+        <guid isPermaLink="true">http://yourdomain.comjekyll_blog/jekyll/update/2015/10/12/first-post2.html</guid>
         
         
         <category>jekyll</category>
@@ -112,8 +112,8 @@
 
 </description>
         <pubDate>Thu, 09 Jul 2015 22:42:49 +0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/07/09/first-post4.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/07/09/first-post4.html</guid>
+        <link>http://yourdomain.comjekyll_blog/jekyll/update/2015/07/09/first-post4.html</link>
+        <guid isPermaLink="true">http://yourdomain.comjekyll_blog/jekyll/update/2015/07/09/first-post4.html</guid>
         
         
         <category>jekyll</category>
@@ -140,8 +140,8 @@
 
 </description>
         <pubDate>Thu, 09 Jul 2015 22:42:49 +0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/07/09/first-post1.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/07/09/first-post1.html</guid>
+        <link>http://yourdomain.comjekyll_blog/jekyll/update/2015/07/09/first-post1.html</link>
+        <guid isPermaLink="true">http://yourdomain.comjekyll_blog/jekyll/update/2015/07/09/first-post1.html</guid>
         
         
         <category>jekyll</category>
@@ -168,8 +168,8 @@
 
 </description>
         <pubDate>Thu, 09 Jul 2015 22:42:49 +0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/07/09/first-post.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/07/09/first-post.html</guid>
+        <link>http://yourdomain.comjekyll_blog/jekyll/update/2015/07/09/first-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.comjekyll_blog/jekyll/update/2015/07/09/first-post.html</guid>
         
         
         <category>jekyll</category>
